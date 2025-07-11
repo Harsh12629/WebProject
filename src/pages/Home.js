@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import '../App.css';
 
-const YOUTUBE_API_KEY = 'AIzaSyCYzf6xD5xEFWeqA5Z43QMLHlJ8If7V0_U';
+const YOUTUBE_API_KEY = 'Your_API_KEY';
 const trendingTitles = [
   "Oppenheimer", "The Batman", "John Wick", "Dune", "Avatar",
   "Spider-Man", "Barbie", "Inception", "The Dark Knight", "Interstellar"
